@@ -1,0 +1,144 @@
+footer {
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-header {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    padding-top: 8px;
+    padding-bottom: 32px;
+    border-bottom: 2px solid #E2E4F0;
+}
+
+.footer-header-contacts {
+    display: flex;
+    align-items: center;
+    gap: 56px;
+}
+
+.footer-info-serv {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+}
+
+.footer-info-serv-text {
+    color: #071435;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.footer-contacts-text {
+    color: #77829E;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.footer-info-serv-btn {
+    background-color: #F2F6FF;
+    width: 179px;
+    height: 48px;
+    display: flex;
+    justify-content: center;
+    border-radius: 8px;
+    align-items: center;
+}
+
+.footer-info-serv-btn-text {
+    font-size: 14px;
+    font-weight: 500;
+    color: #1551E5;
+}
+
+.footer-body {
+    display: flex;
+    gap: 24px;
+    border-bottom: 2px solid #E2E4F0;
+    padding-bottom: 30px;
+}
+
+.footer-body-item {
+    display: flex;
+    flex-direction: column;
+    width: 32%;
+}
+
+.footer-body-item-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: #050D23;
+    line-height: 24px;
+}
+
+.footer-body-item-text {
+    font-size: 14px;
+    font-weight: 400;
+    color: #050D23;
+    line-height: 16px;
+}
+
+.footer-info {
+    padding-top: 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 24px;
+}
+
+.footer-info-box {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    justify-content: center;
+}
+
+.footer-info-box2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap: 48px;
+}
+
+.footer-info-div {
+    display: flex;
+    gap: 8px;
+}
+
+.footer-info-subtitle {
+    font-size: 12px;
+    font-weight: 500;
+    color: #828EAD;
+    line-height: 16px;
+}
+
+.footer-info-subtitleT {
+    font-size: 12px;
+    font-weight: 500;
+    color: #828EAD;
+    line-height: 16px;
+    text-align: center;
+}
+
+.footer-info-subtitleY {
+    font-size: 12px;
+    font-weight: 500;
+    color: #1551E5;
+    line-height: 16px;
+}
+
+.footer-info-dev {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+.footer-info-subtitle2 {
+    font-size: 14px;
+    font-weight: 700;
+    color: #828EAD;
+    line-height: 18px;
+}
