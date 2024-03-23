@@ -62,6 +62,7 @@
     border-radius: 8px;
     gap: 12px;
     background-color: #F2F6FF;
+    cursor: pointer;
 }
 
 .header-price {

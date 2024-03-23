@@ -1,6 +1,5 @@
 .main-content {
     padding: 32px 24px 32px 24px;
-    border-bottom: 2px solid #E2E4F0;
 }
 
 .categories {
@@ -26,6 +25,8 @@
 .main-content-body {
     display: flex;
     gap: 48px;
+    border-bottom: 2px solid #E2E4F0;
+    padding-bottom: 24px;
 }
 
 .main-content-imgs {
@@ -205,6 +206,7 @@ input:checked+.slider:before {
     justify-content: center;
     width: 284px;
     height: 56px;
+    cursor: pointer;
 }
 
 .content-product-info {
