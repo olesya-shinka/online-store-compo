@@ -16,13 +16,13 @@ footer {
 .footer-header-contacts {
     display: flex;
     align-items: center;
-    gap: 56px;
+    gap: 4vw;
 }
 
 .footer-info-serv {
     display: flex;
     align-items: center;
-    gap: 32px;
+    gap: 2.7vw;
 }
 
 .footer-info-serv-text {
@@ -55,7 +55,7 @@ footer {
 
 .footer-body {
     display: flex;
-    gap: 24px;
+    gap: 2vw;
     border-bottom: 2px solid #E2E4F0;
     padding-bottom: 30px;
 }
@@ -85,13 +85,13 @@ footer {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    gap: 24px;
+    gap: 2vw;
 }
 
 .footer-info-box {
     display: flex;
     align-items: center;
-    gap: 28px;
+    gap: 2vw;
     justify-content: center;
 }
 
@@ -100,7 +100,7 @@ footer {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    gap: 48px;
+    gap: 3.3vw;
 }
 
 .footer-info-div {
@@ -133,7 +133,7 @@ footer {
 .footer-info-dev {
     display: flex;
     align-items: center;
-    gap: 24px;
+    gap: 1.7vw;
 }
 
 .footer-info-subtitle2 {

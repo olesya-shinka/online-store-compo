@@ -65,18 +65,16 @@ function Header({ totalPrice, cart }) {
               Обращения
             </a>
           </div>
-          <div>
-            <div className="header-info">
-              <div className="header-info-box">
-                <img src="chat.svg" alt="chat" />
-                <p className="header-info-text">Ваш менеджер</p>
-              </div>
-              <div className="header-info-box2">
-                <img src="promotion.svg" alt="promotion" />
-                <p className="header-info-text">Акции</p>
-              </div>
-              <p className="header-info-text">Блог</p>
+          <div className="header-info">
+            <div className="header-info-box">
+              <img src="chat.svg" alt="chat" />
+              <p className="header-info-text">Ваш менеджер</p>
             </div>
+            <div className="header-info-box2">
+              <img src="promotion.svg" alt="promotion" />
+              <p className="header-info-text">Акции</p>
+            </div>
+            <p className="header-info-text">Блог</p>
           </div>
         </div>
       </header>

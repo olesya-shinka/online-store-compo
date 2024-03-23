@@ -7,7 +7,7 @@
 
 .header-content {
     display: flex;
-    gap: 24px;
+    gap: 2vw;
 }
 
 .header-menu-btn {
@@ -17,14 +17,14 @@
     border-color: transparent;
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 1vw;
     color: white;
     font-size: 14px;
     font-weight: 700;
 }
 
 .header-input-div {
-    width: 50%;
+    width: 65%;
     position: relative;
 }
 
@@ -40,7 +40,7 @@
     position: absolute;
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 0.6vw;
     left: 93%;
     top: 20%;
 }
@@ -49,8 +49,8 @@
     display: flex;
     align-items: center;
     position: relative;
-    margin-left: 20px;
-    gap: 12px;
+    margin-left: 1.7vw;
+    gap: 1vw;
 }
 
 .header-cart {
@@ -60,7 +60,7 @@
     min-width: 148px;
     height: 48px;
     border-radius: 8px;
-    gap: 12px;
+    gap: 1vw;
     background-color: #F2F6FF;
     cursor: pointer;
 }
@@ -74,7 +74,7 @@
 .header-profile {
     display: flex;
     align-items: center;
-    gap: 14px
+    gap: 1.2vw;
 }
 
 .header-profile-name {
@@ -96,7 +96,7 @@
 
 .header-services-links {
     display: flex;
-    gap: 24px;
+    gap: 1.8vw;
 }
 
 .header-services-link {
@@ -113,6 +113,7 @@
 .header-info {
     display: flex;
     align-items: center;
+    gap: 1.8vw;
 }
 
 .header-info-box {

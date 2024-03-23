@@ -5,7 +5,7 @@ import Product from "../product/Product";
 
 function ProductInfo({ addToCart }) {
   return (
-    <div className="main-content">
+    <main className="main-content">
       <div>
         <div className="categories">
           <p className="categories-text">Каталог</p>
@@ -19,7 +19,7 @@ function ProductInfo({ addToCart }) {
         <h1 className="main-content-title">{product.title}</h1>
       </div>
       <Product addToCart={addToCart}/>
-    </div>
+    </main>
   );
 }
 
